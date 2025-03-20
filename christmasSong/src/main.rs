@@ -51,5 +51,4 @@ fn main() {
             count += 1;
             day = count;
         }
-
 }
